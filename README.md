@@ -20,4 +20,4 @@ JDK 19
 Java 22.0.1
 ```
 
-Testing Demo: <a href="(https://github.com/fitri-hy/translation-bot-flutter/tree/main/demo">Go to Demo Folder</a>
+Testing Demo: <a href="https://github.com/fitri-hy/translation-bot-flutter/tree/main/demo">Go to Demo Folder</a>
